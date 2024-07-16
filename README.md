@@ -32,7 +32,7 @@ pip install virtualenv
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask.git](https://github.com/bhavvyayy/Fire-Detection.git)
+git clone [https://github.com/bhavvyayy/Fire-Detection.git]
 cd fire_detection
 ```
 
